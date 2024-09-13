@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 torch==1.13.0
 numpy==1.21.0
 opencv-python==4.10.0
+=======
+torch==1.13.0
+numpy==1.21.0
+opencv-python==4.10.0
+>>>>>>> 691ea8d (Initial commit)
